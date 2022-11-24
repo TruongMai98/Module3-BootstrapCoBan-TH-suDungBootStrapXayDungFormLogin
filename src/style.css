@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.selection-login {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.from-background {
+    background-color: #969798;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 50%;
+
+}
+
+.from-background > h3 {
+   margin-top: 10px;
+}
+
+.from-item {
+    margin-top: 10px;
+}
+
+.reset-password {
+    float: right;
+}
+
+.remember-me {
+    float: left;
+}
+
+.submit {
+    clear: both;
+}
+.btn-login {
+    height: 40px;
+    width: 100px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+
+.user-register {
+    margin-bottom: 30px;
+}
